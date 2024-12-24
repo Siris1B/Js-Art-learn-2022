@@ -1,0 +1,80 @@
+{
+    "styles": [
+        {
+            "src": "assets/img/styles-5.jpg",
+            "title": "Пастелью",
+            "link": "#pastel"
+        },
+        {
+            "src": "assets/img/styles-6.jpg",
+            "title": "Поп-арт",
+            "link": "#popart"
+        },
+        {
+            "src": "assets/img/styles-7.png",
+            "title": "Фотомозаика",
+            "link": "#mozaika"
+        },
+        {
+            "src": "assets/img/styles-8.jpg",
+            "title": "Шарж",
+            "link": "#sharj"
+        }
+    ],
+    "size": [
+        {
+            "name": "40x50",
+            "value": "500"
+        },
+        {
+            "name": "50x70",
+            "value": "100"
+        },
+        {
+            "name": "70x70",
+            "value": "1500"
+        },
+        {
+            "name": "70x100",
+            "value": "2000"
+        }
+    ],
+    "material": [
+        {
+            "name": "fiber",
+            "value": "1"
+        },
+        {
+            "name": "linen",
+            "value": "1.2"
+        },
+        {
+            "name": "cotton",
+            "value": "1.5"
+        }
+    ],
+    "options": [
+        {
+            "name": "gel",
+            "value": "1000"
+        },
+        {
+            "name": "fast",
+            "value": "1500"
+        },
+        {
+            "name": "delivery",
+            "value": "500"
+        }
+    ],
+    "promo": [
+        {
+            "name": "LOX",
+            "value": "0.7"
+        },
+        {
+            "name": "VNTU",
+            "value": "0.  1"
+        }
+    ]
+}
